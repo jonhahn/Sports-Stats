@@ -3,7 +3,7 @@ This repository has a few scripts related to predicting sports.
 
 March Madness
 
-The pool I am a part of has the follorules:
+The pool I am a part of has the following rules:
 1. Pick 8 teams
 2. No 2 teams may have the same seed number
 3. The total of your teams seed numbers may not exceed 62
